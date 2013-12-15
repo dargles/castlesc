@@ -1,5 +1,9 @@
 Outstanding issues:
-
+* 404 handling (see 12/12/13 23:19)
+* Set up email lists (see 12/12/13 23:19)
+* Add a forum (see 12/12/13 23:19)
+* Weather widget(s) (see 12/12/13 23:19)
+* Tabbed sub-pages (see 14/12/13 22:08)
 ******************************************************************************************
 * Filename:      comments.txt
 * Author:        David Argles (daargles@gmail.com)
@@ -29,7 +33,8 @@ The following is a starting list of things that I reckon need doing at the momen
 * Set up email lists
 * Add a forum
 
-Action: 
+Action: (15.12.2013@01:15h) Initial documentation completed.
+Action: (15.12.2013@01:16h) Error messages are swithced off. 
 +++
 end of file
 +++
