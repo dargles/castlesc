@@ -44,7 +44,7 @@ header img{height:50px;float:left;margin:8px 10px 0 30px;}
 banner
 {
   display:block;
-  background-image:url('../graphics/header.jpeg');
+  background-image:url('../graphics/banner.jpeg');
   height:110px;
 }
 nav a:link, a:visited{text-decoration:none;}
