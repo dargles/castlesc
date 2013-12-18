@@ -23,10 +23,10 @@
 ?>
 
       <h3>Contact</h3>
-      <p>If you want to discuss membership or anything to do with the activity of the Castle Sailing Club, please contact Mr. Cordery by email on:</p>
-      <p><a href=\"mailto:castlesailingclub@gmail.com\">castlesailingclub@gmail.com</a></p>
+      <p>If you want to discuss membership or anything to do with the activity of the Castle Sailing Club, please contact Jamie Cordery, preferably by email, on:</p>
+      <p class="centre"><a href=\"mailto:castlesailingclub@gmail.com\">castlesailingclub@gmail.com</a></p>
       <p>or by 'phone on:</p>
-      <p>01962 711 389</p>
+      <p class="centre">01962 711 389</p>
 
 <?php
   /* The final line streams the final html.  Don't change this. */

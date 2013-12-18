@@ -28,25 +28,25 @@
 
       <h3>Annual Fees</h3>
       <p>Membership fees are the same for individuals or families.  Membership of Calshot Activities Centre and the parking fee are required if anyone wishes to sail; this covers launch fees and use of facilities and allows for concessionary boat park rates, which are about half normal rates.</p>
-      <p>As of December 2013, the fees are as follows:</p>
+      <p>Indicative fees for 2014 are as follows:</p>
       <table>
-        <tr><td>Castle SC membership</td>	<td>&pound;5 per indiv or family</td></tr>
-        <tr><td>Calshot Association</td>	<td>&pound;13</td></tr>
-        <tr><td>Calshot annual parking</td>	<td>&pound;38</td></tr>
-        <tr><td>Calshot 2nd car (optional)</td>	<td>&pound;25</td></tr>
+        <tr><td>Castle SC membership</td>	<td class="r-align">&pound;5</td><td>per indiv or family</td></tr>
+        <tr><td>Calshot Association</td>	<td class="r-align">&pound;13</td><td></td></tr>
+        <tr><td>Calshot annual parking</td>	<td class="r-align">&pound;38</td><td></td></tr>
+        <tr><td>Calshot 2nd car (optional)</td>	<td class="r-align">&nbsp;&nbsp;&pound;25</td><td></td></tr>
       </table>
       <p>Boat park/launch fees:</p>
       <table>
-        <tr><td>Less than 3.5m length</td>	<td>&pound;42.50</td></tr>
-        <tr><td>3.5m to 4.49m</td>		<td>&pound;104.50</td></tr>
-        <tr><td>4.5m to 5.5m</td>		<td>&pound;163</td></tr>
+        <tr><td>Less than 3.5m length</td>	<td class="r-align">&pound;42.50</td></tr>
+        <tr><td>3.5m to 4.49m</td>		<td class="r-align">&pound;104.50</td></tr>
+        <tr><td>4.5m to 5.5m</td>		<td class="r-align">&nbsp;&nbsp;&pound;163.00</td></tr>
       </table>
 
       <h3>How to Apply</h3>
-      <p>If you are associated with Hampshire County Council and would like to discuss membership of the Castle Sailing Club, please contact Mr. Cordery by email on:</p>
-      <p><a href=\"mailto:castlesailingclub@gmail.com\">castlesailingclub@gmail.com</a></p>
+      <p>If you are associated with Hampshire County Council and would like to discuss membership of the Castle Sailing Club, please contact Jamie Cordery, preferably by email, on:</p>
+      <p class="centre"><a href=\"mailto:castlesailingclub@gmail.com\">castlesailingclub@gmail.com</a></p>
       <p>or by 'phone on:</p>
-      <p>01962 711 389</p>
+      <p class="centre">01962 711 389</p>
 
 <?php
   /* The final line streams the final html.  Don't change this. */

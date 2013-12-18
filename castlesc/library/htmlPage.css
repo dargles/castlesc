@@ -57,8 +57,10 @@ section
 }
 section h3{padding-left:5px;}
 section p{padding-left:1em;}
+section p.centre{text-align:center}
 section table{padding-left:2em;}
-section td{width:13em;}
+section td.wide{width:15em;}
+section td.r-align{text-align:right;}
 section img{display:block; margin-left:auto; margin-right:auto;}
 
 footer
