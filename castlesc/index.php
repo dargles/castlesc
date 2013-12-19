@@ -2,11 +2,13 @@
 /**
  * index.php is the home page for our website
  *
- * It calls our class, htmlPage, sets the title for our page, sets the page content,
- * & streams the completed boilerplate code.
+ * It instantiates our class, htmlPage, and calls the method that streams the initial 
+ * html for the top of our page.  The main centre section of this file makes space to 
+ * stream the page content.  Finally, it calls the method that streams the final html 
+ * of our boilerplate code.
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 12-12-2013, 23:58h
+ * @version 18-12-2013, 18:14h
  * @copyright 2013 Haven Consulting
  */
 
@@ -19,12 +21,10 @@
      Don't change these lines! */
   require("library/htmlPage.php");
   $page = new htmlPage();
-  /* The next line allows us to change the css for a different layout if required */
-  // $page->setCSS("aside.css");
-  /* setContent() sets the main page content.  This is where you put whatever you want
-     your page to display. */
+  /* The next line streams the initial page html.  Don't change this. */
   $page->HTMLstreamTop();
 ?>
+      <!-- The main page content follows.  You can change this as you wish -->
 
       <!-- The next bit is for future development, allowing a 2 column layout
       <aside>
@@ -40,8 +40,9 @@
       <img src="graphics/bosham.jpg">
       <p>Castle Sailing Club is a relaxed dinghy sailing club with all-tide access to Southampton Water and the Solent.  It is based at the tip of Calshot Spit in Southampton Water, close to Calshot Castle, the historic flying boat hangers, and Calshot Activities Centre.  The Centre is one of the country's most popular watersports locations which also has a state of the art climbing complex, the only indoor velodrome in southern England, a dry ski slope, and extensive camping facilities.</p>
 
+      <!-- End of main page content -->
 <?php
-  /* The final line streams the html.  Don't change this. */
+  /* The final line streams the remaining html.  Don't change this. */
   $page->HTMLstreamBottom();
 /**---------------------------------------------
  *             End of Code

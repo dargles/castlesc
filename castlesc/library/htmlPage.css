@@ -34,12 +34,12 @@ header
 {
   color:black;
   margin-bottom:0;
-  padding:0.1em;
+  padding:5px 0 5px 0px;
   border-radius:10px 10px 0px 0px;
   text-align:left;
 }
-header h3{font-size:2em;padding:0px;margin:0.2em 0 0 0.5em;}
-header p{font-size:1.2em;padding:0px;margin:0 0 0 2em;}
+header h3{font-size:2em;padding:0px;margin:0.2em 0 0 110px;}
+header p{font-size:1em;font-style:italic;padding:2px 0 5px 0px;margin:0 0 0 120px;}
 header img{height:50px;float:left;margin:8px 10px 0 30px;}
 banner
 {
@@ -53,12 +53,12 @@ section
 {
   /* min-height:100%; */
   background-color:white;
-  padding:0.3em;
+  padding:10px 0 10px 0px;
 }
-section h3{padding-left:5px;}
-section p{padding-left:1em;}
+section h3{padding-left:0px;}
+section p{padding:0 10px 0 10px;}
 section p.centre{text-align:center}
-section table{padding-left:2em;}
+section table{padding-left:20px;font-style:italic;}
 section td.wide{width:15em;}
 section td.r-align{text-align:right;}
 section img{display:block; margin-left:auto; margin-right:auto;}
@@ -68,7 +68,7 @@ footer
   font-style:italic;
   color:gray;
   background-color:white;
-  padding:0.3em;
+  padding:10px 10px 10px 0px;
   border-radius:0px 0px 10px 10px;
 }
 /**
@@ -76,51 +76,59 @@ footer
  */
 @media screen and (max-width:480px)
 {
-        header img{height:50px;float:left;margin:8px 10px 0 5px;}
+    header h3{margin-left:75px;font-size:1.5em;}
+    header p{margin-left:85px;font-size:0.9em;}
+    header img{height:50px;float:left;margin:3px 10px 0 5px;}
 	nav
 	{
 	  background-color:#ccc;
 	  margin-top:0;
-          overflow:hidden;
-	  padding:0.4em;
-	  padding-bottom:0.2em;
-          font-size:small;
+      overflow:hidden;
+	  padding:0.6em 0.4em 0em 10px;
+      font-size:small;
 	}
 	nav a
 	{
 	  background-color:#aaa;
 	  padding:0.3em;
 	  margin-right:0.2em;
-          padding-bottom:2px;
+      padding-bottom:4px;
 	  border-width:0em;
 	  border-radius:5px 5px 0px 0px;  
 	}
 	nav a:hover{color:#ccc;}
 	nav a.current{background-color:white;}
-        section{margin-right:0.35em;}
-        section img{width:280px;}
+    section{margin:10px;}
+    section h3{font-size:1.1em;}
+    section {font-size:small;}
+    section img{width:280px;}
+    section table{font-size:small;}
+    footer {margin-left:10px;font-size:small;}
 }
 /**
  * The following section defines attributes specific to intermediate widths
  */
 @media screen and (min-width:481px) and (max-width:600px)
 {
-        header img{height:50px;float:left;margin:8px 10px 0 5px;}
+    header h3{margin-left:75px;}
+    header p{margin-left:85px;}
+    header img{height:50px;float:left;margin:8px 10px 0 5px;}
 	nav
 	{
 	  margin:0 auto;
+	  padding-left:10px;
 	  background-color:black;
-          text-align:center;
-          height:2em;
+      text-align:center;
+      height:2em;
           /*width:100%;*/
 	}
 	nav a
 	{
-          display:block;
-          float:left;
+      display:block;
+      float:left;
 	  background-color:black;
-          color:white;
-	  padding:0.35em 0.5em 0 0.5em;
+      color:white;
+	  padding:0.35em 1em 0 0;
 	  /*width:90px;*/
 	  text-align:center;
 	}
@@ -129,11 +137,11 @@ footer
 
 	section
 	{
-	  margin:0;
+	  margin:0 10px 0 10px;
 	}
 	footer
 	{
-	  margin-left:50px;
+	  margin-left:10px;
 	  border-radius:0px 0px 10px 0px;
 	}
 }
@@ -146,18 +154,18 @@ footer
 	{
 	  margin:0 auto;
 	  background-color:black;
-          text-align:center;
-          height:2em;
-          padding-left:30px;
-          /*width:100%;*/
+      text-align:center;
+      height:2em;
+      padding-left:110px;
+      /*width:100%;*/
 	}
 	nav a
 	{
-          display:block;
-          float:left;
+      display:block;
+      float:left;
 	  background-color:black;
-          color:white;
-	  padding:0.35em 0.5em 0 0.5em;
+      color:white;
+	  padding:0.35em 1em 0 0em;
 	  /*width:90px;*/
 	  text-align:center;
 	}
@@ -166,11 +174,11 @@ footer
 
 	section
 	{
-	  margin:0 120px 0 100px;
+	  margin:0 120px 0 110px;
 	}
 	footer
 	{
-	  margin-left:100px;
+	  margin-left:110px;
 	  border-radius:0px 0px 10px 0px;
 	}
 }

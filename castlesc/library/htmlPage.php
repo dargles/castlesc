@@ -152,7 +152,7 @@ echo("</pre>");*/
       </nav>
 
     <section>
-      <?php 
+<?php 
     }
 
 /**
