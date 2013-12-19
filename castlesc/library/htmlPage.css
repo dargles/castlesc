@@ -38,7 +38,7 @@ header
   border-radius:10px 10px 0px 0px;
   text-align:left;
 }
-header h3{font-size:2em;padding:0px;margin:0.2em 0 0 110px;}
+header h3{font-size:2em;padding:0px;margin:0.2em 10px 0 110px;}
 header p{font-size:1em;font-style:italic;padding:2px 0 5px 0px;margin:0 0 0 120px;}
 header img{height:50px;float:left;margin:8px 10px 0 30px;}
 banner
