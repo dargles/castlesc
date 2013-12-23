@@ -6,7 +6,7 @@
  * & streams the completed boilerplate code.
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 13-12-2013, 00:20h
+ * @version 23-12-2013, 17:08h
  * @copyright 2013 Haven Consulting
  */
 
@@ -23,7 +23,7 @@
 ?>
 
       <h3>Membership</h3>
-      <p>Membership of the Castle Sailing Club (CSC) is principally open to all current and former employees of Hampshire County Council and their families.  There is also limited associate membership. CSC members become members of the Calshot Activities Centre which entitles them to car parking, free launching and the use of shower and changing facilities.  There is also a bar and a cafe in the Sunderland Hanger.</p>
+      <p>Membership of the Castle Sailing Club (CSC) is principally open to all current and former employees of Hampshire County Council and their families.  There is also limited associate membership. CSC members become members of the <a href="http://www3.hants.gov.uk/calshot.htm" target="_blank">Calshot Activities Centre</a> which entitles them to car parking, free launching and the use of shower and changing facilities.  There is also a bar and a cafe in the Sunderland Hanger.</p>
       <p>The club has been at Calshot since 1960 and has a relaxed attitude to its sailing activities, being well suited to independent sailors, although occasional group events are organised.  There are no club duties to perform, members come and go as they please.</p>
 
       <h3>Annual Fees</h3>

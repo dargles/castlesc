@@ -6,7 +6,7 @@
  * & streams the completed boilerplate code.
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 08-12-2013, 08:15h
+ * @version 23-12-2013, 16:56h
  * @copyright 2013 Haven Consulting
  */
 
@@ -23,9 +23,9 @@
 ?>
 
       <h3>Sailing</h3>
-      <p>Novices can gain confidence in the sheltered waters of the lagoon and in the area directly off the slipway.  Calshot Acitivities Centre runs regular dinghy training courses.</p>
-      <p>Launching and recovery is possible at all states of the tide.  Close by are Ashlett Creek, Southampton Water and the River Hamble.  Our location at the centre of the Solent means easy access to the Bromwich beaches, Beaulieu River and on the Island side, Wooton, Cowes and Newtown Creek.  Sailors will also see the regular movements of Southampton Port shipping and the action surrounding events like Cowes Week and teh Round the Island race.</p>
-      <p>The club has no safety boat and thus has no formal racing or training propgramme.  We are however affiliated with the Southampton Water Sailing Association which has a race programme for members.</p>
+      <p>Novices can gain confidence in the sheltered waters of the lagoon and in the area directly off the slipway.  <a href="http://www3.hants.gov.uk/calshot.htm" target="_blank">Calshot Activities Centre</a> runs regular dinghy training courses.</p>
+      <p>Launching and recovery is possible at all states of the tide.  Close by are Ashlett Creek, Southampton Water and the River Hamble.  Our location at the centre of the Solent means easy access to the Bromwich beaches, Beaulieu River and on the Island side, Wooton, Cowes and Newtown Creek.  Sailors will also see the regular movements of Southampton Port shipping and the action surrounding events like Cowes Week and the Round the Island race.</p>
+      <p>The club has no safety boat and thus has no formal racing or training propgramme.  We are however affiliated with the <a href="http://www.swsa.org.uk/" target="_blank">Southampton Water Sailing Association</a> which has a race programme for members.</p>
 
       <img src="graphics/SO451BR-Calshot.jpg" />
 
