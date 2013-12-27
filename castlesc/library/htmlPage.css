@@ -1,21 +1,19 @@
 /**
- * normal.css provides a basic website layout
+ * htmlPage.css provides a basic website layout
  *
  * It uses the CSS3 idea of defined sections, and additionally defines 
- * its own section, "container"
+ * its own sections, "container" and "banner"
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 08-12-2013, 08:59h
+ * @version 27-12-2013, 08:42h
  * @copyright 2013 Haven Consulting
  */
 
 /**
  * The following section defines attributes that apply to all widths of screen display
  */
-/* html{height:100%;} */
 body
 {
-  /* min-height:100%; */
   font-family:verdana,arial,sans-serif;
   background-color:#cc9;
 }
@@ -24,7 +22,6 @@ container
   display:block;
   max-width:850px;
   min-width:300px;
-  /* min-height:100%; */
   margin:0 auto;
   background-color:white;
   border-radius:10px 10px 10px 10px;
@@ -51,7 +48,6 @@ nav a:link, a:visited{text-decoration:none;}
 
 section
 {
-  /* min-height:100%; */
   background-color:white;
   padding:10px 0 10px 0px;
 }
@@ -71,6 +67,7 @@ footer
   padding:10px 10px 10px 0px;
   border-radius:0px 0px 10px 10px;
 }
+
 /**
  * The following section defines attributes specific to narrow screen widths
  */
@@ -84,15 +81,15 @@ footer
 	  background-color:#ccc;
 	  margin-top:0;
       overflow:hidden;
-	  padding:0.6em 0.4em 0em 10px;
+	  padding:0.6em 0.4em 0em 5px;
       font-size:small;
 	}
 	nav a
 	{
 	  background-color:#aaa;
-	  padding:0.3em;
 	  margin-right:0.2em;
-      padding-bottom:4px;
+	  padding:0.3em 0.3em 4px 5px;
+      /*padding-bottom:4px;*/
 	  border-width:0em;
 	  border-radius:5px 5px 0px 0px;  
 	}

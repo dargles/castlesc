@@ -33,6 +33,20 @@
       <p>There are basic facilities (kettle and microwave) in the clubhouse with changing facilities and limited equipment storage.  The clubhouse is on the shore side of the secure Calshot Activities Centre sailing compound.  Toilets and showers are provided nearby.</p>
       <p>We have a boat park close to the clubhouse, behind Stainforth Cottage with at least 24 spaces and boat washing facilities.</p>
 
+      <h3>Weather Forecast</h3>
+      <div style="font-size:1.0em;"><script type="text/javascript" language="JavaScript" src="http://www.windfinder.com/wind-cgi/homepageforecast.pl?STATIONSNR=gb56&UNIT_WIND=kts&UNIT_TEMPERATURE=c&VERSION=2&UNIT_WAVE=m&UNIT_RAIN=mm&NUM_COLS=1&NUM_DAYS=2&SHOW_DAY=1&LANG=en"></script><noscript><a href='http://www.windfinder.com/forecast/solent_mrsc?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Solent MRSC</a> provided by <a href='http://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript></div>
+
+      <h3>Tide Tables</h3>
+      <p>In the "gadget" below, you'll need to select a country - select England - and then a location.  For the precise location, select Calshot Castle.</p>
+      <script src="//www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/102424839555319424468/uk4.xml&amp;synd=open&amp;w=320&amp;h=200&amp;title=Tide+Graph&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
+      
+      <h3>Daylight Hours</h3>
+      <script src="//www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/101126742265493886712/almanac.xml&amp;up_loc=Calshot%20Castle&amp;up_lat=50.818844&amp;up_lon=-1.308578&amp;up_hiddenLoc=&amp;up_computerLocal=1&amp;synd=open&amp;w=320&amp;h=190&amp;title=Daylight+Hours&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
+
+      <h3>Youtube Videos</h3>
+      <p>Dean had produced a number of fun videos of Minisails:</p>
+      <script src="//www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/youtube.xml&amp;up_channel=visitorattube&amp;synd=open&amp;w=300&amp;h=390&amp;title=Dean's+YouTube+Videos&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
+
 <?php
   /* The final line streams the html.  Don't change this. */
   $page->HTMLstreamBottom();

@@ -8,6 +8,14 @@
 *               (2) to use this file as a "token" to note when one of us is updating stuff
 ******************************************************************************************
 
+Time: 	27-12-13, 08:53
+Coder:	David
+Notes:
+* Am now relying somewhat on Git to record updates.  Since 15dec, I've tinkered with a number of things, but primarily sorted the css so that things line up properly on the left-hand side across the various blocks of html.
+* One thing to NOTE CAREFULLY: I've got some stuff I'm tying out on argles.org/castlesc that ARE NOT FOR PUBLISHING on castlesailingclub.org.uk.  Beware when synchronising!!!
+
+--- end of update ---
+
 Time: 	15-12-13, 01:20
 Coder:	David
 Notes:

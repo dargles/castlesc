@@ -27,6 +27,9 @@
       <p class="centre"><a href=\"mailto:castlesailingclub@gmail.com\">castlesailingclub@gmail.com</a></p>
       <p>or by 'phone on:</p>
       <p class="centre">01962 711 389</p>
+      
+      <h3>Getting to Calshot</h3>
+      <script src="//www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/driving_directions.xml&amp;up_from=London&amp;up_to=Calshot%20Castle&amp;up_country=7&amp;synd=open&amp;w=352&amp;h=94&amp;title=Directions+to+Calshot&amp;lang=all&amp;country=UK&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
 
 <?php
   /* The final line streams the final html.  Don't change this. */
