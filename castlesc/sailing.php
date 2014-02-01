@@ -37,8 +37,9 @@
       <div style="font-size:1.0em;"><script type="text/javascript" language="JavaScript" src="http://www.windfinder.com/wind-cgi/homepageforecast.pl?STATIONSNR=gb56&UNIT_WIND=kts&UNIT_TEMPERATURE=c&VERSION=2&UNIT_WAVE=m&UNIT_RAIN=mm&NUM_COLS=1&NUM_DAYS=2&SHOW_DAY=1&LANG=en"></script><noscript><a href='http://www.windfinder.com/forecast/solent_mrsc?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Solent MRSC</a> provided by <a href='http://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript></div>
 
       <h3>Tide Tables</h3>
-      <p>In the "gadget" below, you'll need to select a country - select England - and then a location.  For the precise location, select Calshot Castle.</p>
-      <script src="//www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/102424839555319424468/uk4.xml&amp;synd=open&amp;w=320&amp;h=200&amp;title=Tide+Graph&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
+      <p>Here's a link to <a href="http://www.ukho.gov.uk/easytide/EasyTide/ShowPrediction.aspx?PortID=0061&PredictionLength=7&DaylightSavingOffset=0&PrinterFriendly=True&HeightUnits=0&GraphSize=7" target="_blank">UKHO's tide table for the next seven days at Calshot Castle</a>.</p>
+      <!-- p>In the "gadget" below, you'll need to select a country - select England - and then a location.  For the precise location, select Calshot Castle.</p>
+      <script src="//www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/102424839555319424468/uk4.xml&amp;synd=open&amp;w=320&amp;h=200&amp;title=Tide+Graph&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script -->
       
       <h3>Daylight Hours</h3>
       <script src="//www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/101126742265493886712/almanac.xml&amp;up_loc=Calshot%20Castle&amp;up_lat=50.818844&amp;up_lon=-1.308578&amp;up_hiddenLoc=&amp;up_computerLocal=1&amp;synd=open&amp;w=320&amp;h=190&amp;title=Daylight+Hours&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>

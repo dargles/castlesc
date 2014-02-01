@@ -10,6 +10,12 @@
  */
 
 /**
+ * We're using CSS3.  Only modern browsers support this, so we need to add 
+ * the following to ensure compatibility with older browsers.
+ */
+header, section, footer, aside, nav, article, figure {display:block;}
+
+/**
  * The following section defines attributes that apply to all widths of screen display
  */
 body
