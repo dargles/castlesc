@@ -130,6 +130,7 @@ echo("</pre>");*/
     <meta generator="SimpleSite 1.0">
     <meta author="Haven Consulting: d.argles@gmx.com">
     <link rel="stylesheet" type="text/css" <?php echo("href=\"library/".$this->cssfile."\""); ?>>
+    <!--[if lt IE 9]><script src="library/html5shiv.js"></script><![endif]-->
     <title><?php echo($this->title); ?></title>
   </head>
 
